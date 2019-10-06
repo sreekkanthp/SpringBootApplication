@@ -6,7 +6,7 @@ public class ApplicationConfiguration {
 @RequestMapping("hello")
 public String hello()
 {
-	return "Hello World !!!";
+	return "Welcome to the world of Devops !!!";
 }
 
 }
