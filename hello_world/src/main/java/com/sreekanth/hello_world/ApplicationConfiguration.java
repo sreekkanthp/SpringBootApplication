@@ -6,7 +6,7 @@ public class ApplicationConfiguration {
 @RequestMapping("hello")
 public String hello()
 {
-	return "This is my First Build !!!";
+	return "This is my second Build !!!";
 }
 
 }
